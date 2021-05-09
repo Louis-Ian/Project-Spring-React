@@ -1,4 +1,4 @@
-package com.raven.dsvendas.dt;
+package com.raven.dsvendas.dto;
 
 import java.io.Serializable;
 
